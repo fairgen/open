@@ -1,3 +1,3 @@
 # open
 
-A collection of open-source workshops by [fairgen.ai](www.fairgen.ai)
+A collection of open-source workshops by [fairgen.ai](https://www.fairgen.ai)
